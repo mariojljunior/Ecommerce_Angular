@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## API
+
+A API utilizada para preencher os itens pode ser encontrada gratuitamente acessando [Fake Store API](https://fakestoreapi.com/).
+
+<img src="./src/assets/fakeBookStoreAPI.png"></img>
+
+## E-commerce
+
+O E-commerce foi um projeto feito a partir de uma live da DIO "
+Como criar um front-end de um e-commerce utilizando Angular".
+
+<img src="./src/assets/EcommerceDIO.png"></img>
